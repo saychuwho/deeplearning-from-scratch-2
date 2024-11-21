@@ -1,8 +1,6 @@
 """
 ------------------------------------------------------------
 Code Source:
-Author: WegraLee
-Repository: deep-learning-from-sratch-2
 URL: https://github.com/WegraLee/deep-learning-from-scratch-2/blob/master/common/functions.py
 License: MIT License
 Accessed: 2024-11-20
