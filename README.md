@@ -19,7 +19,7 @@
 - [x] Chapter 3 : word2vec
 - [x] Chapter 4 : word2vec 속도 개선
 - [x] Chapter 5 : 순환 신경망 (RNN)
-- [ ] Chapter 6 : 게이트가 추가된 RNN
+- [x] Chapter 6 : 게이트가 추가된 RNN
 - [ ] Chapter 7 : RNN을 사용한 문장 생성
 - [ ] Chapter 8 : 어텐션
 
